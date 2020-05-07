@@ -6,7 +6,7 @@ var engine, world;
 var box1, pig1;
 
 function preload(){
-    bgImag=loadImage('sprites/bg.png');
+    bgImag=loadImage('bg.png');
 }
 
 
